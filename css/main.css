@@ -29,15 +29,16 @@ body{
 
 header {
     height: 800px;
-    background: url(../img/full-background.png);
+    background: url('../img/hero.png');
     background-size: cover;
+    background-position: center;
 }
 
-header h1 { 
-    padding: 50px 0;
-    font-family: 'Lora 700', serif;
+header h1 {
+    font-family: 'Lora', serif;
     font-size: 30px;
     color: #bbc085;
+    padding: 65px 0 65px 25px;
 }
 
 nav {
